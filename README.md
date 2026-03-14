@@ -30,7 +30,7 @@ If referring to the original TS-TrajGen method, please cite:
 
 Jiang, W., Zhao, W. X., Wang, J., and Jiang, J. (2023). *Continuous Trajectory Generation Based on Two-Stage GAN*. In **Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023)**.
 
-```bibtex
+~~~bibtex
 @inproceedings{ts_trajgen,
   title={Continuous Trajectory Generation Based on Two-Stage GAN},
   author={Wenjun Jiang and Wayne Xin Zhao and Jingyuan Wang and Jiawei Jiang},
@@ -38,3 +38,9 @@ Jiang, W., Zhao, W. X., Wang, J., and Jiang, J. (2023). *Continuous Trajectory G
   publisher={{AAAI} Press},
   year={2023}
 }
+~~~
+
+## Author
+
+**Theodoros Gkotse**  
+University of Piraeus

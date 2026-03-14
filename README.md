@@ -40,7 +40,3 @@ Jiang, W., Zhao, W. X., Wang, J., and Jiang, J. (2023). *Continuous Trajectory G
 }
 ~~~
 
-## Author
-
-**Theodoros Gkotse**  
-University of Piraeus
